@@ -8,8 +8,8 @@ Labs Included
 - DNS Configuration
 - DHCP
 - VLANs
-- Static Routing
-- ACLs
+- Static & OSPF Routing
+- Subnetting 
 
 Each folder contains:
 
